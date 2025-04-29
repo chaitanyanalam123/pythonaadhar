@@ -1,8 +1,15 @@
+# Flask==3.0.0
+# easyocr==1.7.1
+# # torch==2.2.2
+# torch==2.6.0
+# torchvision==0.21.0
+# Werkzeug==3.0.1
+# Pillow==10.3.0
+# # pytesseract==0.3.10
+# gunicorn
+
+boto3==1.26.2
 Flask==3.0.0
-easyocr==1.7.1
-torch==2.2.2
-torchvision==0.17.2
 Werkzeug==3.0.1
 Pillow==10.3.0
-# pytesseract==0.3.10
 gunicorn
